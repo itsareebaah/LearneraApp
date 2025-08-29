@@ -9,13 +9,39 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "1.23.1",
+    "@react-native-firebase/app": "^22.1.0",
+    "@react-native-firebase/firestore": "^22.1.0",
+    "@react-navigation/bottom-tabs": "^7.2.0",
+    "@react-navigation/drawer": "^7.1.1",
+    "@react-navigation/material-top-tabs": "^7.1.0",
+    "@react-navigation/native": "^7.0.14",
+    "@react-navigation/stack": "^7.1.1",
+    "axios": "^1.9.0",
     "expo": "~52.0.33",
+    "expo-auth-session": "~6.0.3",
+    "expo-linear-gradient": "~14.0.2",
+    "expo-linking": "~7.0.5",
     "expo-status-bar": "~2.0.1",
+    "expo-web-browser": "~14.0.2",
+    "firebase": "^11.6.0",
     "react": "18.3.1",
-    "react-native": "0.76.7"
+    "react-native": "0.76.7",
+    "react-native-dotenv": "^3.4.11",
+    "react-native-gesture-handler": "^2.23.1",
+    "react-native-pager-view": "^6.7.0",
+    "react-native-paper": "^5.14.3",
+    "react-native-progress": "^5.0.1",
+    "react-native-reanimated": "^3.16.7",
+    "react-native-safe-area-context": "^5.2.0",
+    "react-native-screens": "^4.8.0",
+    "react-native-vector-icons": "^10.2.0",
+    "react-native-video": "^6.10.1"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@babel/preset-react": "^7.27.1",
+    "metro-react-native-babel-preset": "^0.77.0"
   },
   "private": true
 }
