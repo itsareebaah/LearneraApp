@@ -1,57 +1,100 @@
-LearneraApp is a modern React Native learning application featuring quizzes, progress tracking, 
-and user authentication. It is built with React Native for the frontend and Firebase for backend services.
+🎓 E-Learnera – Complete E-Learning App
 
-Features:
+Authentication
 
-🔑 User Authentication (Signup/Login using Firebase)
+Courses
 
- Courses
+Notes
 
- FlashCards
+Quizes
 
- Quizzes with result storage
+Progress tracking
 
- Progress tracking for each user
+Flashcards
 
- Clean and responsive UI
+Chats
 
- Chats
+Reviews
+
+Profile
 
 
- Tech Stack
+E-Learnera is a modern React Native E-Learning application that empowers users to learn efficiently, track their progress, 
+take quizzes, use flashcards, chat with peers, review courses, and manage notes. It leverages Firebase for authentication, 
+real-time data storage, and quiz result tracking.
 
-Frontend: React Native, JavaScript
+✨ Features
+👨‍🎓 Learner Features
 
-Backend: Firebase Authentication & Firestore
+🔐 Authentication: Signup/Login with Firebase
 
-UI: React Native Components
+📚 Courses: Browse and enroll in courses
 
-Open firebase.js.
+📝 Notes: Add, edit, delete, and organize notes per course
 
-Replace the placeholders with your Firebase project configuration:
+🎯 Quizzes: Attempt quizzes with instant results
 
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT_ID.appspot.com",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID",
-};
+📊 Progress Tracking: Track your course completion and quiz performance
 
-Firebase Setup Notes
+🗂️ Flashcards: Study key concepts with interactive flashcards
 
-Create a project at Firebase Console
-.
+💬 Chats: Interact with instructors and peers in real-time
 
-Enable Authentication (Email/Password).
+⭐ Reviews: Add and view course reviews
 
-Create a Firestore Database.
+⚙️ Tech Stack
 
-Copy your config values and paste them into firebase.js
+Frontend: React Native
 
-Author
+Backend / Database: Firebase Firestore & Firebase Realtime Database
 
-👩‍💻 Areeba Ahmad
+Authentication: Firebase Authentication
 
-📧 Email: areebaahmadzps@gmail.com
+Other: React Navigation, AsyncStorage, Animated UI
+
+🚀 Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/itsareebaah/LearneraApp.git
+cd LearneraApp
+
+📊 Project Highlights
+
+✅ Full-featured React Native E-Learning App
+
+✅ Firebase-powered authentication & database
+
+✅ Track quiz results & progress
+
+✅ Interactive UI with flashcards and animations
+
+✅ Easy to extend with new courses, quizzes, and notes
+
+
+## 🎥 App Demo
+[Watch the app demo on Google Drive](https://drive.google.com/file/d/1ranjuCBf9PLC-WpHHVXh8taCJVI9amI-/view?usp=sharing)
+
+## 🖼️ Screenshots / App Sections
+
+### 📃 Starting Pages
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/1#issue-3381611439)
+
+### 🏠 Home Page
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/2#issue-3381612614)
+
+### ✅ Authentication
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/3#issue-3381613271)
+
+### 📙 Notes
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/4#issue-3381614105)
+
+### 📝 Quizzes
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/5#issue-3381615006)
+
+### 📊 Progress
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/6#issue-3381615626)
+
+### 💬 Reviews
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/7#issue-3381616352)
+
+### 🗣 Chats
+[View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/8#issue-3381617419)
