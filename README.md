@@ -74,6 +74,7 @@ cd LearneraApp
 [Watch the app demo on Google Drive](https://drive.google.com/file/d/1ranjuCBf9PLC-WpHHVXh8taCJVI9amI-/view?usp=sharing)
 
 ## 🖼️ Screenshots / App Sections
+![image alt](https://github.com/itsareebaah/LearneraApp/blob/d4e9df60691c4dd17c0f14444f394182ec36766e/App_UI.png)
 
 ### 📃 Starting Pages
 [View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/1#issue-3381611439)
