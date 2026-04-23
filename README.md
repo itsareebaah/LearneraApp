@@ -75,7 +75,7 @@ cd LearneraApp
 
 ## 🖼️ Screenshots / App Sections
 ![image alt](https://github.com/itsareebaah/LearneraApp/blob/d4e9df60691c4dd17c0f14444f394182ec36766e/App_UI.png)
-
+![image alt](https://github.com/itsareebaah/LearneraApp/blob/5486b22839e581f93a0c3d44c216bcc187ea3e9e/APP_UI%20(2).png)
 ### 📃 Starting Pages
 [View Screenshot](https://github.com/itsareebaah/LearneraApp/issues/1#issue-3381611439)
 
